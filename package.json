@@ -1,7 +1,7 @@
 {
   "name": "@linto-ai/linto-skill-browser-control",
-  "version": "0.0.1",
-  "description": "Browser skill for a linto demo skill",
+  "version": "0.0.1-2",
+  "description": "Browser demo skill for web linto",
   "author": "yhoupert@linagora.com",
   "license": "AGPL-3.0-or-later",
   "node-red": {

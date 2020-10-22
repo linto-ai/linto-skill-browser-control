@@ -19,6 +19,7 @@ module.exports = function (RED) {
             skillName: SKILL_NAME,  // CHECK HERE
             template: template.settupSkillTemplate(PALETTE_NODE_NAME),
             command: LintoSkillNode.loadFile(__dirname, 'data/command.md'),
+            description: LintoSkillNode.loadFile(__dirname, 'data/description.json')
           },
           exportable: true
         }
