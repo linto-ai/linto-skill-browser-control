@@ -16,6 +16,8 @@
 - [démarre](start) le podcast
 - [pause](pause) le podcast
 - [stop](stop) le podcast
+- podcast [suivant](next)
+- podcast [précédant](previous)
 ##intent|browser_control_read|fr
 - lis le [titre](title)
 - lis le [contenu](content)
