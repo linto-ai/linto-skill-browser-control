@@ -31,16 +31,19 @@
 - démarre la dictée
 
 ##intent|browser_control_accesibility|en
-- [activates](on) accessibility mode
-- [activates](on) accessibility
-- [disables](off) accessibility
+- [activate](on) accessibility mode
+- [activate](on) accessibility
+- [enable](on) accessibility
+- [enable](on) accessibility mode
+- [disable](off) accessibility
+- [disable](off) accessibility mode
 ##intent|browser_control_block|en
 - [next](next) block
 - [previous](previous) block
 ##intent|browser_control_picture|en
-- [zoom in](zoom_in) on picture
-- [extend](zoom_in) picture
-- [zoom out](zoom_out) picture
+- [zoom in](zoom_in)
+- [zoom out](zoom_out)
+- [enlarge](zoom_in) picture
 - [reduce](zoom_out) picture
 ##intent|browser_control_podcast|en
 - [start](start) the podcast
