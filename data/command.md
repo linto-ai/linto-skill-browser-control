@@ -29,3 +29,31 @@
 ##intent|browser_control_dictate|fr
 - dictée
 - démarre la dictée
+
+##intent|browser_control_accesibility|en
+- [activates](on) accessibility mode
+- [activates](on) accessibility
+- [disables](off) accessibility
+##intent|browser_control_block|en
+- [next](next) block
+- [previous](previous) block
+##intent|browser_control_picture|en
+- [zoom in](zoom_in) on picture
+- [extend](zoom_in) picture
+- [zoom out](zoom_out) picture
+- [reduce](zoom_out) picture
+##intent|browser_control_podcast|en
+- [start](start) the podcast
+- [pause](pause) the podcast
+- [stop](stop) the podcast
+- [next](next) podcast
+- [previous](previous) podcast
+##intent|browser_control_read|en
+- read the [title](title)
+- raed the [content](content)
+##intent|browser_control_slide|en
+- [next](next) slide
+- [previous](previous) slide
+##intent|browser_control_dictate|en
+- dictation
+- start dictation
